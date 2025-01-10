@@ -316,10 +316,11 @@ ul {
     background:rgba(255, 250, 250, 0.6)
 }
 
-/*---Blog posts---*/
+/*-----------Blog posts----------*/
+
 #blog-post{
     padding: 80px 0;
-    color: #fff
+    color: #fff;
     }
 .row{
     display: flex;
@@ -336,6 +337,7 @@ ul {
 }
 .blog-post-col-2{
     flex-basis: 73%;
+    margin-top: 20px;
 }
 .blog-post-col-2 h1{
     font-size: 45px;
@@ -348,6 +350,7 @@ ul {
     color: #fff;
     line-height: normal;
     text-align: justify;
+    margin-top: 20px;
 }
 
 .blog-post-col-2 a{
